@@ -1,0 +1,26 @@
+{
+  "name": "pweb-cardapio-dona-lourdes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDorival/pweb-cardapio-dona-lourdes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/TheDorival/pweb-cardapio-dona-lourdes/issues"
+  },
+  "homepage": "https://github.com/TheDorival/pweb-cardapio-dona-lourdes#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
